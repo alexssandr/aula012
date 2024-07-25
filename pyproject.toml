@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "aula012"
+version = "0.1.0"
+description = ""
+authors = ["alexssandrodamiao <alexssandro.damiao@acertpix.com.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
